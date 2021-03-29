@@ -63,7 +63,7 @@ Createdate				DATE
 
 DROP TABLE IF EXISTS Answer;
 CREATE TABLE Answre(
-AnswerID				INT,
+AnswerID				,
 Content					VARCHAR(100),
 QuestionID				INT,
 Iscorrect				VARCHAR(50)
